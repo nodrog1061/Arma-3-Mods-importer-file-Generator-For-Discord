@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: steam-workshop
+Version: 0.0.1
+Summary: A package to scrape Collection information from the Steam Workshop.
+Home-page: https://github.com/Fakas/steam-workshop
+Author: Matthew Cazaly
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+
+UNKNOWN
+
+
