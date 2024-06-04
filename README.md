@@ -1,5 +1,5 @@
 ## Project Update
-this project has been retured in exchnage for a Elixir based solution currently under development the project is currently privert but will be in the following [repo](https://github.com/nodrog1061/elixir-discord-arma3-tfr) 
+This project has been retired in exchange for an Elixir based solution currently under development the project is currently privert but will be in the following [repo](https://github.com/nodrog1061/elixir-discord-arma3-tfr) 
 
 # Arma 3 Mods importer file Generator For Discord
 
